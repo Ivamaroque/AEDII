@@ -18,3 +18,6 @@ Os dados escolhidos, assim como uma curta descrição disponilizada pelo autor d
 - [Web Google](https://snap.stanford.edu/data/web-Google.html) - Os nós representam páginas da web e as arestas direcionadas representam hiperlinks entre elas. Os dados foram disponibilizados em 2002 pelo Google como parte do Google Programming Contest.
 - [Wiki RFA](https://snap.stanford.edu/data/wiki-RfA.html) - O conjunto de dados contém 11.381 usuários (eleitores e candidatos) formando 189.004 pares distintos de eleitor/candidato, totalizando 198.275 votos (esse número é maior do que o número de pares distintos de eleitor/candidato porque, se o mesmo usuário concorreu a eleições várias vezes, o mesmo par de eleitor/candidato pode contribuir com vários votos).
 - [amazon0601](https://snap.stanford.edu/data/amazon0601.html) - A rede foi coletada por meio do rastreamento do site da Amazon. Ela é baseada na funcionalidade 'Clientes que compraram este item também compraram' do site da Amazon. Se um produto i é frequentemente comprado em conjunto com o produto j, o grafo contém uma aresta direcionada de i para j.
+
+## Requisito 2
+O segundo requisito pode ser acessado nesse [link](https://github.com/Ivamaroque/AEDII/tree/main/U2T2/Requisito%202)
