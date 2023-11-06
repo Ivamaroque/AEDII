@@ -21,3 +21,6 @@ Os dados escolhidos, assim como uma curta descrição disponilizada pelo autor d
 
 ## Requisito 2
 O segundo requisito pode ser acessado nesse [link](https://github.com/Ivamaroque/AEDII/tree/main/U2T2/Requisito%202)
+
+## Requisito 3
+O terceiro requisito pode ser acessado nesse [link](https://github.com/Ivamaroque/AEDII/tree/main/U2T2/Requisito%203).
