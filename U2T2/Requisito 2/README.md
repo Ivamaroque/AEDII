@@ -1,5 +1,5 @@
 ## Requisito 2
-No requisito 2 foi desenvolvido 5 gráficos que ajudam a ter uma noção visual de como funciona a assotividade de cada rede escolhida. O código usado para demostrar isso pode ser encontrado aqui no repositório ou acessando diretamente o [link](https://colab.research.google.com/drive/1JTCx9ttGMdfrS1EXVfedC3Np8JI8JfNB?usp=sharing).
+No requisito 2 foram desenvolvido 5 gráficos que ajudam a ter uma noção visual de como funciona a assotividade de cada rede escolhida. O código usado para demostrar isso pode ser encontrado aqui no repositório ou acessando diretamente o [link](https://colab.research.google.com/drive/1JTCx9ttGMdfrS1EXVfedC3Np8JI8JfNB?usp=sharing).
 
 ## Funcionamento dos gráficos
 O gráfico que está sendo plotando é chamado de "Gráfico de Assortatividade" ou "Assortatividade de Grau". Ele é usado para visualizar como os nós de um grafo estão conectados com base em seus graus em relação aos graus de seus vizinhos.
