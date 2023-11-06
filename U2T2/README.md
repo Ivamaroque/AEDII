@@ -4,7 +4,8 @@ O trabalho U2T2 visa aplicar os conhecimentos obtidos nas semanas 7 e 8, sendo e
 - Assortatividade
 - Componentes conectados
 - Coeficientes de clustering
-
+# Vídeo
+O link de acesso da explicação em vídeo se encontra [aqui](https://www.loom.com/share/04c939077944489a96313f1c3e77255f)
 ## Como funciona o U2T2
 O segundo trabalho da unidade 2 tem os seguintes requisitos:
 - Requisito 1: Escolher pelo menos 5 redes
