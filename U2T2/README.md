@@ -8,7 +8,7 @@ O trabalho U2T2 visa aplicar os conhecimentos obtidos nas semanas 7 e 8, sendo e
 ## Como funciona o U2T2
 O segundo trabalho da unidade 2 tem os seguintes requisitos:
 - Requisito 1: Escolher pelo menos 5 redes
-- Requisito 2: Para cada uma das redes escolhidas, fazer um gráfico bipartido sobre a assortativade em relação ao grau dso nós da rede
+- Requisito 2: Para cada uma das redes escolhidas, fazer um gráfico bipartido sobre a assortativade em relação ao grau dos nós da rede
 - Requisito 3: Reproduzir a tabela que se encontra no PDF da semana 9
 
 ## Requisito 1
