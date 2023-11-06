@@ -1,5 +1,7 @@
 
 ## Requisitos 3
+O Código no colab pode ser acessado aqui no repositório ou no [link](https://colab.research.google.com/drive/1TgMQAp3_U-MQkuEKGhi86wAEJmLbLly5?usp=sharing).
+
 ## Explicação da tabela
 - A quantidade de vértices da rede:
 
